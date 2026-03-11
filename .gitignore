@@ -1,0 +1,9 @@
+# Git Ignore for PHP/Web Project
+.vscode/
+.antigravity/
+.gemini/
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
