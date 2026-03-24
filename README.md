@@ -1,4 +1,4 @@
-# FullStack-E1slot-25256
+# fulstackdevelopment-E1slot-25256
 
 This repository contains multiple fullstack development tasks.
 
@@ -38,6 +38,7 @@ This repository contains multiple fullstack development tasks.
 
 ---
 ## How to Run Locally
-1. Clone this repository: `git clone https://github.com/vtu25256-crypto/FullStack-E1slot-25256.git`
+1. Clone this repository: `git clone https://github.com/vtu25256-crypto/fulstackdevelopment-E1slot-25256.git`
 2. For PHP tasks: Run via XAMPP `htdocs`.
 3. For Task 8: Run using Maven (`mvn compile exec:java`).
+4. Access tasks via `http://localhost/fulstackdevelopment-E1slot-25256/TASK_FOLDER_NAME`.
