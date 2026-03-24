@@ -40,6 +40,10 @@ This repository contains multiple fullstack development tasks.
 - **Features**: Annotation-based MVC flow, Zero-XML configuration, JSP view resolution.
 - **Tech**: Spring Web MVC, Jakarta Servlet API, JSTL.
 
+### [Task 10: Student CRUD Application](task10_spring_boot_crud/)
+- **Features**: Spring Boot, JPA Entity Mapping (@Entity, @Id), Relational CRUD (Create, Read, Update, Delete).
+- **Tech**: Spring Boot, Spring Data JPA, MySQL.
+
 ---
 ## How to Run Locally
 1. Clone this repository: `git clone https://github.com/vtu25256-crypto/fulstackdevelopment-E1slot-25256.git`
