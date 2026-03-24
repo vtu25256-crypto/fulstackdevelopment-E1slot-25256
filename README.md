@@ -28,6 +28,10 @@ This repository contains multiple fullstack development tasks.
 - **Features**: Atomic balance transfers, SQL Transaction control (COMMIT/ROLLBACK), Real-time system logs.
 - **Tech**: PHP (PDO Transactions), MySQL, AJAX, CSS Terminal UI.
 
+### [Task 7: Interactive Web Form with Events & Functions](task7_interactive_form/)
+- **Features**: Keypress validation, Mouse hover highlights, Double-click submit confirmation.
+- **Tech**: HTML5, CSS3, JavaScript (DOM Events).
+
 ---
 ## How to Run Locally
 1. Clone this repository into your XAMPP `htdocs` folder.
