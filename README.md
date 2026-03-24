@@ -12,6 +12,10 @@ This repository contains multiple fullstack development tasks.
 - **Features**: Registration form, Student data storage, Data retrieval.
 - **Tech**: HTML5, CSS3, PHP, MySQL.
 
+### [Task 2: Data Retrieval & Sorting Dashboard](task2_data_dashboard/)
+- **Features**: Sorting by name/date, Filtering by department, Department-wise analytics.
+- **Tech**: HTML5, CSS3, PHP, AJAX.
+
 ---
 ## How to Run Locally
 1. Clone this repository into your XAMPP `htdocs` folder.
