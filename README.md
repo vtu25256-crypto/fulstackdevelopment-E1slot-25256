@@ -24,6 +24,10 @@ This repository contains multiple fullstack development tasks.
 - **Features**: Customer order history (JOINs), Highest value order and Most active customer (Subqueries).
 - **Tech**: SQL (JOINs, Subqueries), PHP, CSS Layout.
 
+### [Task 5: Transaction-Based Payment Simulation](task5_payment_simulation/)
+- **Features**: Atomic balance transfers, SQL Transaction control (COMMIT/ROLLBACK), Real-time system logs.
+- **Tech**: PHP (PDO Transactions), MySQL, AJAX, CSS Terminal UI.
+
 ---
 ## How to Run Locally
 1. Clone this repository into your XAMPP `htdocs` folder.
