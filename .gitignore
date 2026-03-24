@@ -1,11 +1,11 @@
-# Dependencies
-node_modules/
-vendor/
-
 # OS files
 .DS_Store
 Thumbs.db
+.vscode/
 
-# Database config (if any)
-config.php
+# Project files
+node_modules/
 .env
+
+# Database backups (if any)
+*.sql.bak
